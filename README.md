@@ -16,7 +16,7 @@ Write a Readme file with instructions as to how to create and run a machine on A
 
 
 1. go to the github page [**https://github.com/EricaDaSilvaCorreia**](https://github.com/EricaDaSilvaCorreia)
-2. Click repositories and select the repository [**Sparta_AWS_Instructions**](https://github.com/EricaDaSilvaCorreia/Sparta_AWS_Instructions)
+2. Click repositories and select the repository [**AWS_VPC_BASTION_GUIDE_HW**](https://github.com/EricaDaSilvaCorreia/AWS_VPC_BASTION_GUIDE_HW)
 3. Click 'Clone or Download'
 4. Choose between **Open in Desktop**, **Download ZIP**, **Clone with SSH**, **Clone with HTTPs**
 
